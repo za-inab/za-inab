@@ -45,22 +45,22 @@ I’m a Software Engineer with 2+ years of professional experience (and 4 years 
  <h2 align="center">Connect with me here 👇</h2>
  <br/> <br/>
 <a href="mailto:zainabasif.work@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ZainabAsif-red">
+    <img src="https://img.shields.io/badge/Gmail-Zainab_Asif-red">
   </a>
   
    <a href="https://www.linkedin.com/in/zainab-asif-2206/">
-    <img src="https://img.shields.io/badge/Linkedin-ZainabAsif-blue">
+    <img src="https://img.shields.io/badge/Linkedin-Zainab_Asif-blue">
   </a>
 
   
    <a href="https://x.com/xainab_asif">
-    <img src="https://img.shields.io/badge/X-ZainabAsif-9cf">
+    <img src="https://img.shields.io/badge/_X_-Zainab_Asif-9cf">
   </a>
   
 
   
   <a href="https://www.instagram.com/zainabasif.za/">
-    <img src="https://img.shields.io/badge/Instagram-ZainabAsif-ff69b4">
+    <img src="https://img.shields.io/badge/Instagram-Zainab_Asif-ff69b4">
   </a>
   </div>
 <br/> <br/>
@@ -178,12 +178,11 @@ I’m a Software Engineer with 2+ years of professional experience (and 4 years 
 ### 📊 GitHub Stats
 <div align="center">
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=za-inab&theme=radical&hide_border=false)
+![GitHub Stats](https://streak-stats.demolab.com?user=za-inab&theme=vue-dark&hide_border=true)
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=za-inab&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=za-inab&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 ---
