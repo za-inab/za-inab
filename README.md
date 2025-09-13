@@ -9,7 +9,8 @@
 
 ---
 
-### 👩‍💻 About Me
+### 👩‍💻 About Me 
+💻 Full-Stack JavaScript & Python Software Engineer | 🔐 Security Enthusiast | 🤖 Exploring Machine Learning | ⚙️ Diving into low-level programming
 
 I’m a Software Engineer with 2+ years of professional experience (and 4 years of meddling with code before that). I’ve built full-stack apps, tinkered with Machine Learning and AI, and developed a reputation for writing code that’s simple, neat, and doesn’t make people cry when they read it. I love learning new things most of the time just to see how far I can stretch my curiosity. My main weapons are JavaScript, Python, and a steady flow of tea, the real framework holding everything together.
 
@@ -22,6 +23,8 @@ I’m a Software Engineer with 2+ years of professional experience (and 4 years 
 - 💬 Ask me about: **JavaScript, Python, clean code practices, or how to survive with tea as your only energy source.**
 - ⚡ Fun fact: I love to debug code more than writing it and can debug it faster than I can decide what to eat for lunch 🍵 
 - 🎯 My goal: To **engineer solutions** that matter through open source and impactful products
+
+
 
 ---
 
