@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zainab</h1>
-<h3 align="center">Software Engineer Who Debugs Faster Than Choosing Lunch 🍵</h3>
+<h3 align="center">Software Engineer and Passionate Learner</h3>
 
 ---
 
