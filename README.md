@@ -1,31 +1,36 @@
 <h1 align="center">Hi 👋, I'm Zainab</h1>
-<h3 align="center">A Software Engineer Passionate for Learning</h3>
-
-<!--
-**za-inab/za-inab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
----
-
--->
-
+<h3 align="center">Software Engineer Who Debugs Faster Than Choosing Lunch 🍵</h3>
 
 ---
 
 ### 👩‍💻 About Me 
 
+**6 years of turning problems into code, 2 years getting paid for it.**
 
-💻 Full-Stack JavaScript & Python Software Engineer | 🔐 Security Enthusiast | 🤖 Exploring Machine Learning | ⚙️ Diving into low-level programming
+I build modern web applications using React, Node.js, and TypeScript, with a focus on security, performance, and maintainable code architecture.
 
-I’m a Software Engineer with 2+ years of professional experience (and 4 years of meddling with code before that). I’ve built full-stack apps, tinkered with Machine Learning and AI, and developed a reputation for writing code that’s simple, neat, and doesn’t make people cry when they read it. I love learning new things most of the time just to see how far I can stretch my curiosity. My main weapons are JavaScript, Python, and a steady flow of tea, the real framework holding everything together.
+**Current Technical Focus:**
+- 🔭 Full-stack development with React, TypeScript, Node.js, and MongoDB
+- 🌱 RESTful API design and database optimization
+- 💡 Exploring Generative AI integration 
 
+**Professional Goals:**
+- 👯 Contributing to open source projects that solve real-world problems
+- 🤔 Developing expertise in distributed systems and cloud architecture (because "it works on my machine" isn't architecture)
+- 💬 Building impactful software that creates genuine user value
 
-- 🔭 I’m currently working with **React, TypeScript, Node.js, Express, MongoDB and scalable full-stack applications** and polishing my craft in writing clean, modular code.
-- 🌱 I’m currently learning **Agentic and Generative AI** and how to make systems smarter (without making them take over the world 🤖).  
-- 💡 I love solving problems, and exploring new tools.
-- 👯 I’m looking to collaborate on **open-source projects** that push boundaries in web dev, AI, or automation.
-- 🤔 I’m looking for help with mastering **advanced system design** (because architecture is what holds everthing together).  
-- 💬 Ask me about: **JavaScript, Python, clean code practices, or how to survive with tea as your only energy source.**
-- ⚡ Fun fact: I love to debug code more than writing it and can debug it faster than I can decide what to eat for lunch 🍵 
-- 🎯 My goal: To **engineer solutions** that matter through open source and impactful products
+**Value I Bring:**
+- 2 years of production experience with JavaScript/TypeScript
+- Track record of writing clean, maintainable code with proper documentation
+- Strong problem-solving skills and attention to code quality
+
+**Looking to collaborate on:** Web applications, developer tools, or open source projects where I can contribute meaningful code and continue learning from experienced developers.
+
+**Ask me about:** JavaScript, Python, secure auth, clean code practices, or the perfect debugging workflow
+
+⚡ **Fun fact:** I debug code faster than I can decide what to eat for lunch 🍵 
+
+🎯 **My goal:** Engineer solutions that matter through open source and impactful products
 
 ---
 
@@ -58,7 +63,6 @@ I’m a Software Engineer with 2+ years of professional experience (and 4 years 
   <img src="assets/yingyang-nobg.png" alt="Yingyang"/>
   
 </div>
-
 
 ---
 
