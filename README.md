@@ -6,6 +6,27 @@
 ---
 
 -->
+
+
+---
+
+### 👩‍💻 About Me 
+
+
+💻 Full-Stack JavaScript & Python Software Engineer | 🔐 Security Enthusiast | 🤖 Exploring Machine Learning | ⚙️ Diving into low-level programming
+
+I’m a Software Engineer with 2+ years of professional experience (and 4 years of meddling with code before that). I’ve built full-stack apps, tinkered with Machine Learning and AI, and developed a reputation for writing code that’s simple, neat, and doesn’t make people cry when they read it. I love learning new things most of the time just to see how far I can stretch my curiosity. My main weapons are JavaScript, Python, and a steady flow of tea, the real framework holding everything together.
+
+
+- 🔭 I’m currently working with **React, TypeScript, Node.js, Express, MongoDB and scalable full-stack applications** and polishing my craft in writing clean, modular code.
+- 🌱 I’m currently learning **Agentic and Generative AI** and how to make systems smarter (without making them take over the world 🤖).  
+- 💡 I love solving problems, and exploring new tools.
+- 👯 I’m looking to collaborate on **open-source projects** that push boundaries in web dev, AI, or automation.
+- 🤔 I’m looking for help with mastering **advanced system design** (because architecture is what holds everthing together).  
+- 💬 Ask me about: **JavaScript, Python, clean code practices, or how to survive with tea as your only energy source.**
+- ⚡ Fun fact: I love to debug code more than writing it and can debug it faster than I can decide what to eat for lunch 🍵 
+- 🎯 My goal: To **engineer solutions** that matter through open source and impactful products
+
 ---
 
 <div align="center">
@@ -41,27 +62,6 @@
 
 ---
 
-### 👩‍💻 About Me 
-
-
-💻 Full-Stack JavaScript & Python Software Engineer | 🔐 Security Enthusiast | 🤖 Exploring Machine Learning | ⚙️ Diving into low-level programming
-
-I’m a Software Engineer with 2+ years of professional experience (and 4 years of meddling with code before that). I’ve built full-stack apps, tinkered with Machine Learning and AI, and developed a reputation for writing code that’s simple, neat, and doesn’t make people cry when they read it. I love learning new things most of the time just to see how far I can stretch my curiosity. My main weapons are JavaScript, Python, and a steady flow of tea, the real framework holding everything together.
-
-
-- 🔭 I’m currently working with **React, TypeScript, Node.js, Express, MongoDB and scalable full-stack applications** and polishing my craft in writing clean, modular code.
-- 🌱 I’m currently learning **Agentic and Generative AI** and how to make systems smarter (without making them take over the world 🤖).  
-- 💡 I love solving problems, and exploring new tools.
-- 👯 I’m looking to collaborate on **open-source projects** that push boundaries in web dev, AI, or automation.
-- 🤔 I’m looking for help with mastering **advanced system design** (because architecture is what holds everthing together).  
-- 💬 Ask me about: **JavaScript, Python, clean code practices, or how to survive with tea as your only energy source.**
-- ⚡ Fun fact: I love to debug code more than writing it and can debug it faster than I can decide what to eat for lunch 🍵 
-- 🎯 My goal: To **engineer solutions** that matter through open source and impactful products
-
-
-
----
-
 ### 🛠️ My Toolkit
 
 <p align="center">
@@ -93,6 +93,8 @@ I’m a Software Engineer with 2+ years of professional experience (and 4 years 
   <img src="https://skillicons.dev/icons?i=notion" width="65" />
   <img src="https://skillicons.dev/icons?i=figma" width="65" />
 </p>
+
+
 
 ---
 
