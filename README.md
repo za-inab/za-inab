@@ -62,8 +62,11 @@ I’m a Software Engineer with 2+ years of professional experience (and 4 years 
   <a href="https://www.instagram.com/zainabasif.za/">
     <img src="https://img.shields.io/badge/Instagram-Zainab_Asif-ff69b4">
   </a>
+
+  ![YingYang](assets/yingyang-nobg.png)
+  
   </div>
-<br/> <br/>
+
 
 ---
 ## 💻 Here's What I know and Work With
