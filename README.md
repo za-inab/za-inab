@@ -3,22 +3,6 @@
 
 <!--
 **za-inab/za-inab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- ![Zainab's GitHub stats](https://github-readme-stats.vercel.app/api?username=za-inab&show_icons=true&theme=radical)
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-### 📌 Pinned Projects
-
-
-
 ---
 
 -->
@@ -69,111 +53,38 @@ I’m a Software Engineer with 2+ years of professional experience (and 4 years 
 
 
 ---
-## 💻 Here's What I know and Work With
 
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-    <tr>
-        <td align="center" min-width="105">
-            <img src="https://skillicons.dev/icons?i=js" alt="icon" max-width="75" max-height="75" />
-            <br>Javascript
-        </td>
-        <td align="center" min-width="105">
-            <img src="https://skillicons.dev/icons?i=ts" alt="icon" max-width="75" max-height="75" />
-            <br>Typescript
-        </td>
-        <td align="center" min-width="105">
-            <img src="https://skillicons.dev/icons?i=python" alt="icon" max-width="75" max-height="75" />
-            <br>Python
-        </td>
-        <td align="center"  min-width="105">
-            <img src="https://skillicons.dev/icons?i=html" max-width="75" max-height="75" alt="HTML5" />
-            <br>HTML5
-        </td>
-        <td align="center" min-width="105">
-            <img src="https://skillicons.dev/icons?i=css" max-width="75" max-height="75" alt="css" />
-            <br>CSS
-        </td>
-        <td align="center" min-width="105">
-            <img src="https://skillicons.dev/icons?i=mysql" alt="icon" max-width="75" max-height="75" />
-            <br>MySQL
-        </td>
-        <td align="center" min-width="105">
-            <img src="https://skillicons.dev/icons?i=postgres" max-width="75" max-height="75" alt="PostgreSQL" />
-            <br>PostgreSql
-        </td>
-    </tr>
-    <tr>
-        <td align="center" min-width="105">
-            <img src="https://skillicons.dev/icons?i=react" alt="icon" max-width="75" max-height="75" />
-            <br>React
-        </td>
-        <td align="center" min-width="105">
-            <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" max-width="75" max-height="75" />
-            <br>Next
-        </td>
-        <td align="center" min-width="105">
-            <img src="https://skillicons.dev/icons?i=nodejs" max-width="75" max-height="75" alt="Nodejs" />
-            <br>Nodejs
-        </td>
-        <td align="center" min-width="105">
-            <img src="https://skillicons.dev/icons?i=express" alt="icon" max-width="75" max-height="75" />
-            <br>Django
-        </td>
-        <td align="center"  min-width="105">
-            <img src="https://skillicons.dev/icons?i=flask" max-width="75" max-height="75" alt="bootstrap" />
-            <br>Flask
-        </td>
-        <td align="center" min-width="105">
-            <img src="https://skillicons.dev/icons?i=mongodb" max-width="75" max-height="75" alt="MongoDB" />
-            <br>MongoDB
-        </td>
-        <td align="center" min-width="105">
-            <img src="https://skillicons.dev/icons?i=pytorch" max-width="75" max-height="75" alt="MongoDB" />
-            <br>Pytorch
-        </td>
-    </tr>
-    <tr>
-        <td align="center" min-width="105"> 
-            <img src="https://skillicons.dev/icons?i=sklearn" max-width="75" max-height="75" alt="Git" />
-            <br>ScikitLearn
-        </td>
-        <td align="center" min-width="105">
-            <img src="https://skillicons.dev/icons?i=tailwind" max-width="75" max-height="75" alt="tailwind" />
-            <br>TailwindCss
-        </td>
-        <td align="center" min-width="105">
-            <img src="https://skillicons.dev/icons?i=vscode" max-width="75" max-height="75" alt="VsCode" />
-            <br>VsCode
-        </td>
-        <td align="center" min-width="105">
-            <img src="https://skillicons.dev/icons?i=github" alt="icon" max-width="75" max-height="75" />
-            <br>Github
-        </td>
-        <td align="center" min-width="105"> 
-            <img src="https://skillicons.dev/icons?i=git" max-width="75" max-height="75" alt="Git" />
-            <br>Git
-        </td>
-        <td align="center" min-width="105"> 
-            <img src="https://skillicons.dev/icons?i=notion" max-width="75" max-height="75" alt="Git" />
-            <br>Notion
-        </td>
-        <td align="center" min-width="105"> 
-            <img src="https://skillicons.dev/icons?i=figma" max-width="75" max-height="75" alt="Git" />
-            <br>Figma
-        </td>
-    </tr>
-</table>
-
-</div>
-
+### 🛠️ My Toolkit
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=js" width="65" />
+  <img src="https://skillicons.dev/icons?i=ts" width="65" />
+  <img src="https://skillicons.dev/icons?i=python" width="65" />
+  <img src="https://skillicons.dev/icons?i=html" width="65" />
+  <img src="https://skillicons.dev/icons?i=css" width="65" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="65" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="65" />
+</p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" width="65" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="65" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="65" />
+  <img src="https://skillicons.dev/icons?i=express" width="65" />
+  <img src="https://skillicons.dev/icons?i=flask" width="65" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="65" />
+  <img src="https://skillicons.dev/icons?i=pytorch" width="65" />
+</p>
 
-
-
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=scikitlearn" width="65" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="65" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="65" />
+  <img src="https://skillicons.dev/icons?i=github" width="65" />
+  <img src="https://skillicons.dev/icons?i=git" width="65" />
+  <img src="https://skillicons.dev/icons?i=notion" width="65" />
+  <img src="https://skillicons.dev/icons?i=figma" width="65" />
+</p>
 
 ---
 
