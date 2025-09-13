@@ -6,10 +6,44 @@
 ---
 
 -->
+---
+
+<div align="center">
+ <h2 align="center">Connect with me here 👇</h2>
+ <br/> <br/>
+<a href="mailto:zainabasif.work@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Zainab_Asif-red">
+  </a>
+  
+   <a href="https://www.linkedin.com/in/zainab-asif-2206/">
+    <img src="https://img.shields.io/badge/Linkedin-Zainab_Asif-blue">
+  </a>
+
+  
+   <a href="https://x.com/xainab_asif">
+    <img src="https://img.shields.io/badge/_X_-Zainab_Asif-9cf">
+  </a>
+  
+
+  
+  <a href="https://www.instagram.com/zainabasif.za/">
+    <img src="https://img.shields.io/badge/Instagram-Zainab_Asif-ff69b4">
+  </a>
+  
+  </div>
+
+  <div align="center">
+
+  <img src="assets/yingyang-nobg.png" alt="Yingyang"/>
+  
+</div>
+
 
 ---
 
 ### 👩‍💻 About Me 
+
+
 💻 Full-Stack JavaScript & Python Software Engineer | 🔐 Security Enthusiast | 🤖 Exploring Machine Learning | ⚙️ Diving into low-level programming
 
 I’m a Software Engineer with 2+ years of professional experience (and 4 years of meddling with code before that). I’ve built full-stack apps, tinkered with Machine Learning and AI, and developed a reputation for writing code that’s simple, neat, and doesn’t make people cry when they read it. I love learning new things most of the time just to see how far I can stretch my curiosity. My main weapons are JavaScript, Python, and a steady flow of tea, the real framework holding everything together.
@@ -23,7 +57,6 @@ I’m a Software Engineer with 2+ years of professional experience (and 4 years 
 - 💬 Ask me about: **JavaScript, Python, clean code practices, or how to survive with tea as your only energy source.**
 - ⚡ Fun fact: I love to debug code more than writing it and can debug it faster than I can decide what to eat for lunch 🍵 
 - 🎯 My goal: To **engineer solutions** that matter through open source and impactful products
-
 
 
 
@@ -71,33 +104,6 @@ I’m a Software Engineer with 2+ years of professional experience (and 4 years 
 
 </div>
 
----
-
-<div align="center">
- <h2 align="center">Connect with me here 👇</h2>
- <br/> <br/>
-<a href="mailto:zainabasif.work@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Zainab_Asif-red">
-  </a>
-  
-   <a href="https://www.linkedin.com/in/zainab-asif-2206/">
-    <img src="https://img.shields.io/badge/Linkedin-Zainab_Asif-blue">
-  </a>
-
-  
-   <a href="https://x.com/xainab_asif">
-    <img src="https://img.shields.io/badge/_X_-Zainab_Asif-9cf">
-  </a>
-  
-
-  
-  <a href="https://www.instagram.com/zainabasif.za/">
-    <img src="https://img.shields.io/badge/Instagram-Zainab_Asif-ff69b4">
-  </a>
-
-  ![YingYang](assets/yingyang-nobg.png)
-  
-  </div>
 
 ---
 ### 📌 Pinned Projects
