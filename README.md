@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 <br/> <br/>
 
 ---
-# 💻 Here's What I know and Use
+## 💻 Here's What I know and Work With
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -176,16 +176,19 @@ Here are some ideas to get you started:
 
 
 
+---
 
 
 ### 📊 GitHub Stats
-<p align="center">
+<div align="center">
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=za-inab&theme=radical&hide_border=false)
 
+<br/>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=za-inab&layout=compact&theme=radical)
-</p>
+</div>
 
 
 
