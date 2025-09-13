@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zainab</h1>
-<h3 align="center">A Passionate Developer with a learning-oriented mindset</h3>
+<h3 align="center">A Software Engineer Passionate for Learning</h3>
 
 <!--
 **za-inab/za-inab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,20 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ### 📌 Pinned Projects
-<p align="left">
-  <a href="https://github.com/za-inab/auth-starter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=za-inab&repo=auth-starter&theme=tokyonight" /></a>
-  <a href="https://github.com/za-inab/expense-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=za-inab&repo=expense-tracker&theme=tokyonight" /></a>
-  <a href="https://github.com/za-inab/library-management"><img src="https://github-readme-stats.vercel.app/api/pin/?username=za-inab&repo=library-management&theme=tokyonight" /></a>
-  <a href="https://github.com/za-inab/find-restaurants"><img src="https://github-readme-stats.vercel.app/api/pin/?username=za-inab&repo=find-restaurants&theme=tokyonight" /></a>
-</p>
 
-### 🌐 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
-<a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="30" /></a>
-<a href="https://instagram.com/your-instagram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="instagram" height="30" width="30" /></a>
-<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="30" width="30" /></a>
-</p>
+
 
 ---
 
@@ -38,10 +26,18 @@ Here are some ideas to get you started:
 ---
 
 ### 👩‍💻 About Me
-- 🌱 I’m currently working with **React, TypeScript, Node.js, Express, MongoDB**
-- 🔐 I built an **Auth Starter Kit** (React + Vite + TS + Express + MongoDB) that anyone can clone/fork
-- 💡 I love solving problems, building scalable apps, and exploring new tools
-- 🎯 My goal: contribute to open-source and build impactful products
+
+I’m a Software Engineer with 2+ years of professional experience (and 4 years of meddling with code before that). I’ve built full-stack apps, tinkered with Machine Learning and AI, and developed a reputation for writing code that’s simple, neat, and doesn’t make people cry when they read it. I love learning new things most of the time just to see how far I can stretch my curiosity. My main weapons are JavaScript, Python, and a steady flow of tea, the real framework holding everything together.
+
+
+- 🔭 I’m currently working with **React, TypeScript, Node.js, Express, MongoDB and scalable full-stack applications** and polishing my craft in writing clean, modular code.
+- 🌱 I’m currently learning **Agentic and Generative AI** and how to make systems smarter (without making them take over the world 🤖).  
+- 💡 I love solving problems, and exploring new tools.
+- 👯 I’m looking to collaborate on **open-source projects** that push boundaries in web dev, AI, or automation.
+- 🤔 I’m looking for help with mastering **advanced system design** (because architecture is what holds everthing together).  
+- 💬 Ask me about: **JavaScript, Python, clean code practices, or how to survive with tea as your only energy source.**
+- ⚡ Fun fact: I love to debug code more than writing it and can debug it faster than I can decide what to eat for lunch 🍵 
+- 🎯 My goal: To **engineer solutions** that matter through open source and impactful products
 
 ---
 
@@ -190,5 +186,6 @@ Here are some ideas to get you started:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=za-inab&layout=compact&theme=radical)
 </div>
 
-
+---
+### 📌 Pinned Projects
 
