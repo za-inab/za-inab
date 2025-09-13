@@ -187,10 +187,5 @@ Here are some ideas to get you started:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=za-inab&layout=compact&theme=radical)
 </p>
 
----
 
-
----
-
-⭐️ From [za-inab](https://github.com/za-inab)
 
