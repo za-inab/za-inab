@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zainab</h1>
-<div align="center">
+<h3 align="center">
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&pause=3000&color=080808&center=true&width=435&lines=Software+Engineer+and+Passionate+Learner)](https://git.io/typing-svg)
-
-</div>
-
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&pause=3000&color=080808&center=true&vCenter=true&width=435&height=30&lines=Software+Engineer+and+Passionate+Learner)](https://git.io/typing-svg)
+</h3>
 
 ---
 
