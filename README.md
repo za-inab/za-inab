@@ -20,9 +20,9 @@ I build modern web applications using React, Node.js, and TypeScript, with a foc
 - 💬 Building impactful software that creates genuine user value
 
 **Value I Bring:**
-- 2 years of production experience with JavaScript/TypeScript
-- Track record of writing clean, maintainable code with proper documentation
-- Strong problem-solving skills and attention to code quality
+- 🚀 2 years of production experience with JavaScript/TypeScript
+- 📚 Track record of writing clean, maintainable code with proper documentation
+- 🔍 Strong problem-solving skills and attention to code quality
 
 **Looking to collaborate on:** Web applications, developer tools, or open source projects where I can contribute meaningful code and continue learning from experienced developers.
 
