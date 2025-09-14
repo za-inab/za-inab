@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Zainab</h1>
-<h3 align="center">Software Engineer and Passionate Learner</h3>
+<div align="center">
+ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&pause=3000&color=080808&center=true&width=435&lines=Software+Engineer+and+Passionate+Learner)](https://git.io/typing-svg)
+
+</div>
+
 
 ---
 
@@ -106,7 +111,7 @@ I build modern web applications using React, Node.js, and TypeScript, with a foc
 ### 📊 GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://streak-stats.demolab.com?user=za-inab&theme=vue-dark&hide_border=true)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=za-inab&theme=vue-dark&hide_border=true)
 
 </div>
 
