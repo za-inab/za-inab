@@ -1,8 +1,7 @@
+
+
 <h1 align="center">Hi 👋, I'm Zainab</h1>
-<h3 align="center">
- 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&pause=3000&color=080808&center=true&vCenter=true&width=435&height=30&lines=Software+Engineer+and+Passionate+Learner)](https://git.io/typing-svg)
-</h3>
+<h3 align="center">Software Engineer and Passionate Learner</h3>
 
 ---
 
@@ -10,7 +9,7 @@
 
 **6 years of turning problems into code, 2 years getting paid for it.**
 
-I build modern web applications using React, Node.js, and TypeScript, with a focus on security, performance, and maintainable code architecture.
+I build modern web applications using React, Node.js, with JavaScript and TypeScript, with a focus on security, performance, and maintainable code architecture.
 
 **Current Technical Focus:**
 - 🔭 Full-stack development with React, TypeScript, Node.js, and MongoDB
