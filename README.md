@@ -39,7 +39,7 @@ I build modern web applications using React, Node.js, with JavaScript and TypeSc
 <div align="center">
  <h2 align="center">Connect with me here 👇</h2>
  <br/> <br/>
-<a href="mailto:zainabasif.work@gmail.com">
+<a href="mailto:zasif.work@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Zainab_Asif-red">
   </a>
   
